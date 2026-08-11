@@ -1,7 +1,15 @@
 # GRU953-Studio Homebrew tap
 
+[![formula](https://img.shields.io/badge/dynamic/regex?url=https%3A%2F%2Fraw.githubusercontent.com%2FGRU-953%2Fhomebrew-tap%2Fmain%2FFormula%2Fgru953-studio.rb&search=studio-cli-%28%5B0-9.%5D%2B%29.tgz&replace=v%241&label=formula&color=00AE99)](Formula/gru953-studio.rb)
+[![licence](https://img.shields.io/badge/licence-PolyForm%20Noncommercial%201.0.0-B28400)](https://github.com/GRU-953/GRU953-Studio/blob/main/LICENSE)
+[![GRU953-Studio](https://img.shields.io/badge/GRU953--Studio-repository-3257A0)](https://github.com/GRU-953/GRU953-Studio)
+
 The Homebrew formula for the [GRU953-Studio](https://github.com/GRU-953/GRU953-Studio)
 command, for macOS and Linux.
+
+<sub>The version above is read live from the formula in this repository, so it cannot
+drift out of date. Homebrew's own shields.io badge only covers formulae in Homebrew
+core, not taps, which is why this one reads the file directly.</sub>
 
 ## Install
 
