@@ -9,6 +9,17 @@ command, for macOS and Linux.
 brew install GRU-953/tap/gru953-studio
 ```
 
+**Homebrew 6 may ask you to trust this tap first.** Homebrew now refuses to load a
+formula from a third-party tap until you say you trust it — a sensible precaution,
+since a tap is just somebody's repository. If you see a message about an
+"untrusted tap", run this once and then install again:
+
+```
+brew trust GRU-953/tap
+```
+
+If you are never asked, you have nothing to do — the install simply proceeds.
+
 Then, when you are ready:
 
 ```
